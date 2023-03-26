@@ -9,9 +9,8 @@ This is a short data story about San Fransisco. The paper investigates where it 
 
 ## Introduction 
 
-#### The Data set
 
-The data used is ....
+The data used in this paper is police incidents regarding vehicle thef in San Fransisco in the period from 2003 to 2017 (including 2017 data). There has been 124,759 reported incidents in these 15 years. 
 
 
 

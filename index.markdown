@@ -7,7 +7,9 @@ layout: home
 This is a short data story about San Fransisco. The paper investigates where it is safe to park in San Fransisco to help the drivers to have a safe experience....blablabla (Skriv gerne en anden intro) 
 
 
-# Introduction to the data set
+## Introduction 
+
+#### The Data set
 
 The data used is ....
 

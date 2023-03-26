@@ -1,0 +1,10 @@
+#https://barrysunderland.com/blog/embedding-bokeh-plots.html#static-bokeh-as-a-static-file
+
+#Paste the following onto webpage:
+<embed 
+       type="text/html" 
+       src="/assignment2_bokeh_output.html"
+       width="500"
+       height="350"
+       >
+</embed>

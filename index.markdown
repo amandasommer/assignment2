@@ -19,7 +19,7 @@ The data used in this paper is police incidents regarding vehicle thef in San Fr
 
 ## Time Series Plot
 
-Initial a time series plot is carried out to illistrate the historical behaviour of the vehicle theft. A calender plot shows the number of incidents each day for each of the years to achive a detailed picture of the data.
+Initial a time series plot is carried out to illustrate the historical behaviour of the vehicle theft. A calender plot shows the number of incidents each day for each of the years to acheive a detailed picture of the data.
 
  ![calplot](calplot.png "Text to show on mouseover")
 

@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-## Introduction 
+Introduction 
 
 This is a short data story about San Fransisco. The paper investigates where it is safe to park in San Fransisco to help the drivers to have a safe experience. First an inital data analysis is performed to obtain insight in the historical behaviour. ...blablabla (Skriv gerne en anden intro) 
 

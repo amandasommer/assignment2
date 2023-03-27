@@ -33,8 +33,8 @@ To get an overview of the vehicle theft in San Francisco, a time series plot is 
 <embed
        type="text/html"
        src="malou_map/heat_map.html"
-       width="500"
-       height="350"
+       width="700"
+       height="500"
        >
 </center>
 
@@ -48,9 +48,12 @@ The police districts have widely different population sizes, with the smallest d
 
 In conclusion, this graph shows that Tenderloin and Taraval is the safest districts to park vehicles, and that this has been an ongoing trend across several years.
 
+<center>
 <embed
        type="text/html"
        src="assignment2_bokeh_output.html"
-       width="500"
-       height="350"
+       width="700"
+       height="500"
        >
+ </center>
+

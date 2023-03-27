@@ -29,4 +29,4 @@ Initial a time series plot is carried out to illustrate the historical behaviour
 
 ### Details: Bokeh Plot
 
-[bokeh](calplot.png)
+[bokeh](jonatan_bokeh/assignment2_bokeh_output.html)

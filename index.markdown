@@ -40,8 +40,6 @@ The police districts have widely different population sizes, with the smallest d
 
 In conclusion, this graph shows that Tenderloin and Taraval is the safest districts to park vehicles, and that this has been an ongoing trend across several years.
 
-![bokeh](assignment2_bokeh_output.html)
-
 <embed
        type="text/html"
        src="assignment2_bokeh_output.html"
@@ -49,23 +47,3 @@ In conclusion, this graph shows that Tenderloin and Taraval is the safest distri
        height="350"
        >
 </embed>
-
-
-<embed
-       type="text/html"
-       src="assignment2/assignment2_bokeh_output.html"
-       width="500"
-       height="350"
-       >
-</embed>
-
-<embed
-       type="text/html"
-       src="assignment2/blob/main/jonatan_bokeh/assignment2_bokeh_output.html"
-       width="500"
-       height="350"
-       >
-</embed>
-
-![bokeh](./jonatan_bokeh/assignment2_bokeh_output.html)
-

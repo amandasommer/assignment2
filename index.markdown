@@ -29,7 +29,7 @@ To get an overview of the vehicle theft in San Francisco, a time series plot is 
 
 ## Zoom: Map Plot
 
-Digging deeper into vehicle theft in San Francisco we want to figure out where it's safest to park our car and why that might be. [This article](https://www.nbcbayarea.com/investigations/breaking-point-sf-suffers-highest-rate-of-car-break-ins-compared-to-atlanta-dc-dallas-la/2731757/) reports that many of San Francisco's tourist areas are affected by a high number of vehicle thefts. Other locations such as parking lots or being close to a highway can also be a potential high risk zone. To explore this stance we take a look at the heatmap below. On the map you can find and click on markers that either indicate a tourist attraction (<span style="color:pink">*pink* text</span>) or a parking lot (<span style="color:orange">*orange* text</span>).
+Digging deeper into vehicle theft in San Francisco we want to figure out where it's safest to park our car and why that might be. [This article](https://www.nbcbayarea.com/investigations/breaking-point-sf-suffers-highest-rate-of-car-break-ins-compared-to-atlanta-dc-dallas-la/2731757/) reports that many of San Francisco's tourist areas are affected by a high number of vehicle thefts. Other locations such as parking lots or being close to a highway can also be a potential high risk zone. To explore this stance we take a look at the heatmap below. On the map you can find and click on markers that either indicate a tourist attraction (<span style="color:purple">*purple* text</span>) or a parking lot (<span style="color:orange">*orange* text</span>).
 
 <center>
 <embed

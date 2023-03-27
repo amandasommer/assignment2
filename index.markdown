@@ -44,7 +44,24 @@ In conclusion, this graph shows that Tenderloin and Taraval is the safest distri
 
 <embed
        type="text/html"
-       src="/jonatan_bokeh/assignment2_bokeh_output.html"
+       src="assignment2_bokeh_output.html"
+       width="500"
+       height="350"
+       >
+</embed>
+
+
+<embed
+       type="text/html"
+       src="assignment2/assignment2_bokeh_output.html"
+       width="500"
+       height="350"
+       >
+</embed>
+
+<embed
+       type="text/html"
+       src="assignment2/blob/main/jonatan_bokeh/assignment2_bokeh_output.html"
        width="500"
        height="350"
        >

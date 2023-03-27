@@ -9,7 +9,7 @@ This is Assignement 2 in the course *Social Data Analysis and Visualization (028
 
 ### Introduction 
 
-This paper is a short data story about San Francisco. It investigates where it is safe to park in San Francisco, in order to help the drivers have a safe experience. It is an explanatory data visualization that analysis the data and aims at providing meaningfull insight in the historical behaviour of the vehicle theft in the city. The explainatory analysis consist of three parts; (1) overview, (2) zoom and (3) details. The paper also evaluates the data quality and how the data influence the outcome of the analysis. 
+This paper presents a short data story about parking safety in San Francisco, designed to assist the police reduce vehicle theft and furthermore assist drivers in making informed decisions of where to park. Using explanatory data visualizations, the paper explores the historical patterns of vehicle theft in the city and identifies areas where parking is considered safe and other areas unsafe. The explanatory analysis is divided into three sections: (1) an overview, (2) a zoomed-in analysis, and (3) a detailed examination of the data using Bokeh. In addition, the paper also evaluates the quality of the data and its impact on the outcome of the analysis.
 
 
 

@@ -31,7 +31,7 @@ To get an overview of the vehicle theft in San Francisco, a time series plot is 
 
 <embed
        type="text/html"
-       src="malou_map/heat_map.html"
+       src="heat_map.html"
        width="500"
        height="350"
        >

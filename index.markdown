@@ -29,6 +29,12 @@ To get an overview of the vehicle theft in San Francisco, a time series plot is 
 
 ### Zoom: Map Plot
 
+<embed
+       type="text/html"
+       src="malou_map/heat_map.html"
+       width="500"
+       height="350"
+       >
 
 ### Details: Bokeh Plot
 

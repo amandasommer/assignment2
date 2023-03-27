@@ -15,7 +15,9 @@ This paper presents a short data story about parking safety in San Francisco, de
 
 ### The Data Set
 
-The data used in this paper is police incidents regarding vehicle thef in San Francisco in the period from 2003 to 2017 (including 2017 data). There has been 124,759 reported incidents in these 15 years. 
+The data analyzed in this paper comprises police incident reports of vehicle theft in San Francisco from 2003 to 2017, including data for 2017. A total of 124,759 incidents were reported during this 15-year period.
+
+
 
 
 ### Overview: Time Series Plot

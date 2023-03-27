@@ -29,4 +29,14 @@ Initial a time series plot is carried out to illustrate the historical behaviour
 
 ### Details: Bokeh Plot
 
-!![bokeh](./jonatan_bokeh/assignment2_bokeh_output.html)
+<<insertHTML:[./jonatan_bokeh/assignment2_bokeh_output.html]
+
+etc, etc, etc
+
+```{r, echo=FALSE}
+htmltools::includeHTML("./jonatan_bokeh/assignment2_bokeh_output.html")
+```
+
+etc, etc, etc
+
+![bokeh](./jonatan_bokeh/assignment2_bokeh_output.html)

@@ -5,38 +5,42 @@
 layout: home
 ---
 
-This is Assignement 2 in the course *Social Data Analysis and Visualization (02806)* offered by the *Technical University of Denmark*.
+This is Assignment 2 in the course *Social Data Analysis and Visualization (02806)* offered by the *Technical University of Denmark*.
 
-### Introduction
+## Introduction
 
 This paper presents a short data story about parking safety in San Francisco, designed to assist the police reduce vehicle theft and furthermore assist drivers in making informed decisions of where to park. Using explanatory data visualizations, the paper explores the historical patterns of vehicle theft in the city and identifies areas where parking is considered safe and other areas unsafe. The explanatory analysis is divided into three sections: (1) an overview, (2) a zoomed-in analysis, and (3) a detailed examination of the data using Bokeh. In addition, the paper also evaluates the quality of the data and its impact on the outcome of the analysis.
 
 
 
-### The Data Set
+## The Data Set
 
 The data analyzed in this paper comprises police incident reports of vehicle theft in San Francisco from 2003 to 2017, including data for 2017. A total of 124,759 incidents were reported during this 15-year period.
 
 
 
 
-### Overview: Time Series Plot
+## Overview: Time Series Plot
 To get an overview of the vehicle theft in San Francisco, a time series plot is generated to visualize the historical behaviour of the data. The calender plot shows the number of incidents each day of the years, and it is color coded with the number of incidents happening each day. This type of visualization offers a detailed and informative picture of the data over time, giving readers insight into historical trends. For the vechicle theft there is a notable  drop in reports occurred between 2005 and 2006, prompting the question of whether this could be attributed to police efforts to reduce incidents. However, further investigation revealed that the drop in reported incidents was likely due to a change in how vehicle theft was registered in the police database. Prior to 2006, the police recorded both stolen vehicles and other related incidents under the category of vehicle theft. After 2006, however, only stolen vehicles were registered under this category. This example illustrates the importance of thorough data investigation before drawing conclusions, as misleading conclusions may result from incomplete or inaccurate data. For more information on this issue, see this [linked article](https://www.kaggle.com/code/eyecjay/vehicle-thefts-or-jerry-rice-jubilation/report).
 
 
 
  ![calplot](calplot.png)
 
-### Zoom: Map Plot
+## Zoom: Map Plot
 
+Digging deeper into vehicle theft in San Francisco we want to figure out where it's safest to park our car and why that might be. [This article](https://www.nbcbayarea.com/investigations/breaking-point-sf-suffers-highest-rate-of-car-break-ins-compared-to-atlanta-dc-dallas-la/2731757/) reports that many of San Francisco's tourist areas are affected by a high number of vehicle thefts. Other locations such as parking lots or being close to a highway can also be a potential high risk zone. To explore this stance we take a look at the heatmap below. On the map you can find and click on markers that either indicate a tourist attraction (<span style="color:purple">*purple* text</span>) or a parking lot (<span style="color:orange">*orange* text</span>).
+
+<center>
 <embed
        type="text/html"
        src="malou_map/heat_map.html"
-       width="500"
-       height="350"
+       width="700"
+       height="500"
        >
+</center>
 
-### Details: Bokeh Plot
+## Details: Bokeh Plot
 
 The following Bokeh visualization is an interactive line graph that shows the evolution of car thefts from 2008-2017 for each SF district. As of 2017, Bayview, Mission and Southern receives the most reports of vehicle theft, with 1 report for every 100 citizens each year! However, it should be noted that there isn't a one-to-one correlation between the population size of a district and the number of cars parked within it – this should be taken into consideration when interpreting the data.
 
@@ -46,9 +50,12 @@ The police districts have widely different population sizes, with the smallest d
 
 In conclusion, this graph shows that Tenderloin and Taraval is the safest districts to park vehicles, and that this has been an ongoing trend across several years.
 
+<center>
 <embed
        type="text/html"
        src="assignment2_bokeh_output.html"
-       width="500"
-       height="350"
+       width="700"
+       height="500"
        >
+ </center>
+

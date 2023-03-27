@@ -34,7 +34,7 @@ To get an overview of the vehicle theft in San Francisco, a time series plot is 
 ## Zoom: Map Plot
 If you're planning to visit San Francisco and are wondering where it's safe to park your car, it's worth exploring the data on vehicle thefts in the city. According to [an article](https://www.nbcbayarea.com/investigations/breaking-point-sf-suffers-highest-rate-of-car-break-ins-compared-to-atlanta-dc-dallas-la/2731757/) from 2016, many tourist areas in San Francisco have a high number of vehicle thefts, as do certain parking lots and areas close to highways. 
 
-To visualize this data, we created a heat map showing the locations of both tourist attractions (marked in purple) and parking lots (marked in orange). We also included major freeways and highways in San Francisco (marked in red) for reference. By clicking on the markers, you can see the names of the tourist attractions or parking lots. The map shows vehicle thefts from one week in August 2016.
+To visualize this data, we created a heat map showing the locations of both tourist attractions (marked in purple) and parking lots (marked in orange). We also included major freeways and highways in San Francisco (marked in red) for reference. By clicking on the markers, you can see the names of the tourist attractions or parking lots. The map shows vehicle thefts from one week in August 2016 as an example.
 
 The map shows that certain areas with many tourist attractions or parking lots are more prone to vehicle thefts, but there are also many areas where this is not the case. The same goes for the areas around highways. The east side highways have a lot of vehicle thefts in the surrounding areas, whereas the west side does not seem to have this issue.
 

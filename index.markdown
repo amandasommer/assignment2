@@ -25,7 +25,11 @@ To get an overview of the vehicle theft in San Francisco, a time series plot is 
 
 
 
+
+
  ![calplot](calplot.png)
+ 
+ When looking at the rest of the calender plot, the number of incidents is more or less evenly destributed over the years. Some peak are happening, but it does not seems like any events has triggered these peaks. 
 
 ## Zoom: Map Plot
 If you're planning to visit San Francisco and are wondering where it's safe to park your car, it's worth exploring the data on vehicle thefts in the city. According to [an article](https://www.nbcbayarea.com/investigations/breaking-point-sf-suffers-highest-rate-of-car-break-ins-compared-to-atlanta-dc-dallas-la/2731757/) from 2016, many tourist areas in San Francisco have a high number of vehicle thefts, as do certain parking lots and areas close to highways. 

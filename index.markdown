@@ -9,13 +9,13 @@ This is Assignement 2 in the course *Social Data Analysis and Visualization (028
 
 ### Introduction 
 
-This paper is a short data story about San Francisco. It investigates where it is safe to park in San Francisco to help the drivers to have a safe experience. It is an explanatory data visualization that analysis the data and aims at obtaining insight in the historical behaviour of the vehicle theft in the city. The explainatory analysis consist of three parts; (1) overview, (2) zoom and filter and (3) details. The paper also evaluates the data quality and how the data influence the outcome of the analysis. 
+This paper is a short data story about San Francisco. It investigates where it is safe to park in San Francisco, in order to help the drivers have a safe experience. It is an explanatory data visualization that analysis the data and aims at providing meaningfull insight in the historical behaviour of the vehicle theft in the city. The explainatory analysis consist of three parts; (1) overview, (2) zoom and (3) details. The paper also evaluates the data quality and how the data influence the outcome of the analysis. 
 
 
 
 ### The Data Set
 
-The data used in this paper is police incidents regarding vehicle thef in San Francisco in the period from 2003 to 2017 (including 2017 data). Data can be found using this [link](https://www.sanfranciscopolice.org/stay-safe/crime-data/crime-dashboard). There has been 124,759 reported incidents in these 15 years. 
+The data used in this paper is police incidents regarding vehicle thef in San Francisco in the period from 2003 to 2017 (including 2017 data). There has been 124,759 reported incidents in these 15 years. 
 
 
 ### Overview: Time Series Plot

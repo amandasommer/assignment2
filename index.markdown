@@ -46,4 +46,3 @@ In conclusion, this graph shows that Tenderloin and Taraval is the safest distri
        width="500"
        height="350"
        >
-</embed>

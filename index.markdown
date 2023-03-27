@@ -24,5 +24,8 @@ Initial a time series plot is carried out to illustrate the historical behaviour
 
  ![calplot](calplot.png)
 
+### Map Plot
 
+
+### Bokeh Plot
 

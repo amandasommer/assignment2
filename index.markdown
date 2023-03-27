@@ -9,18 +9,21 @@ This is Assignement 2 in the course *Social Data Analysis and Visualization (028
 
 ### Introduction 
 
-This paper is a short data story about San Francisco. It investigates where it is safe to park in San Francisco to help the drivers to have a safe experience. It is an explanatory data visualization that analysis the data and aims at obtaining insight in the historical behaviour of the vehicla theft in the city. The explainatory analysis consist of three parts; (1) overview, (2) zoom and filter and (3) details. The paper also evaluates the data quality and how the data influence the outcome of the analysis. (Omskriv gerne introen)
+This paper presents a short data story about parking safety in San Francisco, designed to assist the police reduce vehicle theft and furthermore assist drivers in making informed decisions of where to park. Using explanatory data visualizations, the paper explores the historical patterns of vehicle theft in the city and identifies areas where parking is considered safe and other areas unsafe. The explanatory analysis is divided into three sections: (1) an overview, (2) a zoomed-in analysis, and (3) a detailed examination of the data using Bokeh. In addition, the paper also evaluates the quality of the data and its impact on the outcome of the analysis.
 
 
 
 ### The Data Set
 
-The data used in this paper is police incidents regarding vehicle thef in San Francisco in the period from 2003 to 2017 (including 2017 data). There has been 124,759 reported incidents in these 15 years. 
+The data analyzed in this paper comprises police incident reports of vehicle theft in San Francisco from 2003 to 2017, including data for 2017. A total of 124,759 incidents were reported during this 15-year period.
+
+
 
 
 ### Overview: Time Series Plot
+To get an overview of the vehicle theft in San Francisco, a time series plot is generated to visualize the historical behaviour of the data. The calender plot shows the number of incidents each day of the years, and it is color coded with the number of incidents happening each day. This type of visualization offers a detailed and informative picture of the data over time, giving readers insight into historical trends. For the vechicle theft there is a notable  drop in reports occurred between 2005 and 2006, prompting the question of whether this could be attributed to police efforts to reduce incidents. However, further investigation revealed that the drop in reported incidents was likely due to a change in how vehicle theft was registered in the police database. Prior to 2006, the police recorded both stolen vehicles and other related incidents under the category of vehicle theft. After 2006, however, only stolen vehicles were registered under this category. This example illustrates the importance of thorough data investigation before drawing conclusions, as misleading conclusions may result from incomplete or inaccurate data. For more information on this issue, see this [linked article](https://www.kaggle.com/code/eyecjay/vehicle-thefts-or-jerry-rice-jubilation/report).
 
-Initial a time series plot is carried out to illustrate the historical behaviour of the vehicle theft. Below a calender plot shows the number of incidents each day for the years. A calender plot gives a detailed picture of the data and how it changes over time providing a deeper insight into the data for the reader. For the vechical theft there is a dramatical drop in reports between 2005 and 2006. One could hope that this was just a sight that from one day to another San fransisco police managed to reduce the number of vehiclal incidents, but unfortunatly it looks like this is not the case and that the reason for the drop in incidents is due to another reason. When looking into this drastical development it can be explained by a change in how the vechical theft is registered in the database. This article ([link to article](https://www.kaggle.com/code/eyecjay/vehicle-thefts-or-jerry-rice-jubilation/report)) looks further into the subclasses under vehical theft. The article describes how San Francisco police before 2006 registered both stolen vehicals and xxx under vehicle thef whereas after 2006 it is only the stolen vehicals. This is a great example of data that can be misleading without the proper data investigation, before conclusions are made.  
+
 
  ![calplot](calplot.png)
 

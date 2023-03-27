@@ -9,7 +9,7 @@ This is Assignement 2 in the course *Social Data Analysis and Visualization (028
 
 ### Introduction 
 
-This is a short data story about San Francisco. The paper investigates where it is safe to park in San Francisco to help the drivers to have a safe experience. First an inital data analysis is performed to obtain insight in the historical behaviour and to evasluate the data quality. ...blablabla (Skriv gerne en anden intro) 
+This paper is a short data story about San Francisco. It investigates where it is safe to park in San Francisco to help the drivers to have a safe experience. It is an explanatory data visualization that analysis the data and aims at obtaining insight in the historical behaviour of the vehicla theft in the city. The paper also evaluates the data quality and how the data influence the outcome of the analysis. (Omskriv gerne introen)
 
 
 
